@@ -1,3 +1,4 @@
+// here is something new in B2
 import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import * as echarts from 'echarts';
